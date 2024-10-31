@@ -1,6 +1,6 @@
 # EATIN
 
-An online food ordering web application similar built with React and Django.
+An online food ordering web application similar to Zomato/UberEats built with React and Django.
 
 
 ---
