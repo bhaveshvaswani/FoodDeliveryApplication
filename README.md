@@ -6,11 +6,9 @@ An online food ordering web application similar built with React and Django.
 ---
 
 ## Features
-- User signup with optional seller onboarding via Stripe.
+- User signup with optional seller onboarding.
 - Login through mobile number and OTP.
 - Browse restaurants, add food items to the cart, and make test payments.
-- Receive order status updates via SMS.
-- Card payments accepted by restaurants; funds routed to their connected Stripe accounts.
 - Restaurants can list, add, edit, and delete food items.
 - Simple admin page for restaurant management.
 
@@ -18,10 +16,7 @@ An online food ordering web application similar built with React and Django.
 - Backend built with Django and Django REST Framework (DRF).
 - Frontend developed using ReactJS.
 - JWT authentication for secure login and signup.
-- Card payments facilitated by Stripe Checkout; restaurant onboarding via Stripe Connect.
-- SMS notifications using Twilio's Verify and SMS APIs.
 - AWS S3 for static file storage.
-- Backend hosted on Heroku; frontend on Vercel.
 - PostgreSQL used as the production database.
 
 ---
